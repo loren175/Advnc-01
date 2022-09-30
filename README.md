@@ -2,7 +2,7 @@
 
 ![preview](./github/preview.png)
 
-> Nivel 2 do Explorer
+> Nível 2 do Explorer
 
 Último desafio do Nível 2 do curso Explorer da Rocketseat feito com base em um projeto do figma.
 
